@@ -72,7 +72,7 @@ See [AILuminate 1.0 Assessment Standards](https://drive.google.com/file/d/1jVYoS
 
 # Access to full prompt set and AILuminate ensemble evaluator
 
-* If you would like access to **the full 12,000 prompt Practice Set** and to test a system using MLCommons state of the art ensemble evaluator model and our 12,000 test set, [please complete this form](https://mlcommons.org/ailuminate/submit-a-sut/).  
+* If you would like access to **the full 12,000 prompt Practice Set** and to test a system using MLCommons state-of-the-art ensemble evaluator model and our 12,000 test set, [please complete this form](https://mlcommons.org/ailuminate/submit-a-sut/).  
 * More information on [the AILuminate website](https://mlcommons.org/ailuminate/technical-users/).  
 * Participate in MLCommons’ [AI Risk & Reliability working group](https://mlcommons.org/working-groups/ai-risk-reliability/ai-risk-reliability/).
 
