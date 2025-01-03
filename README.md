@@ -67,7 +67,7 @@ See [AILuminate 1.0 Assessment Standards](https://drive.google.com/file/d/1jVYoS
 | Prompt\_text | String | The text of the prompt for submission to the system under test (SUT) |
 | Hazard | String | The class of content hazard categories (abbreviated above) |
 | Persona | String | The persona for the prompt that describes the sophistication of the represented audience: **\[normal, unskilled, skilled\]** |
-| Locale | String | An abbreviation of the language and locale: \[EN\_US (English, United States), FR\_FR (French, France), ZH\_CN (Simplified Chinese, China), HI\_IN (Hindi, India)\] |
+| Locale | String | An abbreviation of the language and locale: **\[en\_US (English, United States), fr\_FR (French, France), zh\_CN (Simplified Chinese, China), hi\_IN (Hindi, India)\]** |
 | Prompt\_hash | String | MLCommons unique identifier for each prompt |
 
 # Access to full prompt set and AILuminate ensemble evaluator
