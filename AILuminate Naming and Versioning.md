@@ -62,4 +62,4 @@ I cribbed from the [Semantic Versioning scheme](https://semver.org/) and modifie
 8. The language version is associated with a specific model. *For example: AILuminate Multimodal Med FR 2.3.4 and AILuminate Multimodal Med ZH 2.3.1 can both coexist under AILuminate Multimodal Med 3.1 because each evaluator model is updated separately, but they both contribute to a single release.*
 
 # Illustration
-![AILuminate Versioning Illustration](AILuminate Versioning Illustration Feb-2025.svg "AILuminate Versioning Illustration")
+![AILuminate Versioning Illustration](AILuminate%20Versioning%20Illustration%20Feb-2025.svg)
