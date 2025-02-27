@@ -41,7 +41,9 @@ Audiences have their own goals for why they’re looking at the name of a benchm
 
 | **Bad** | **Good, maybe** |
 | :---- | :---- |
-| AILuminate Multimodal Speech-to-text Medical French Cameroon Release Candidate 2.3.4 AILuminate 2.3.4-MMFC1 AILuminate 2.3.4 | AILuminate Multimodal Med FR 2.3.4 |
+| AILuminate Multimodal Speech-to-text Medical French Cameroon Release Candidate 2.3.4 | AILuminate Multimodal Med FR 2.3.4 |
+| AILuminate 2.3.4-MMFC1 AILuminate 2.3.4 | |
+| AILuminate 2.3.4 | |
 
 # Versioning
 
