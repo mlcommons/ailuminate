@@ -32,7 +32,7 @@ Audiences have their own goals for why they’re looking at the name of a benchm
 | :---- | :---- | :---- |
 | *Language* | French | Simplified Chinese |
 | *Region* | \[Belgium \| Canada \|...\] | \[Shanghai \| Taiwan \| …\] |
-| *SUT Type* | LLM | Multimodal |
+| *SUT Type* | Language | Multimodal |
 | *SUT Specialization* | \[Interactive Chat \| instruction generation \| …\] | \[Image-to-text \| Speech-to-text \| …\] |
 | *Domain* | General Purpose | \[Financial \| Medical \| …\] |
 | *Release type* | General Availability | \[Release Candidate \| Test \| …\] |
