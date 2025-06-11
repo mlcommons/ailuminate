@@ -1,6 +1,6 @@
 # AILuminate v1.0 DEMO Prompt Set
 
-This file contains the DEMO prompt library of the AILuminate 1.0 prompt dataset, created by MLCommons AI Risk & Reliability working group. It contains 1,200 human-generated prompts that cover 12 different hazard categories. The dataset is a mix of adversarial and non-adversarial prompts. This dataset is a 10% subset of the full AILuminate training dataset.
+This file contains the DEMO prompt library of the AILuminate 1.0 prompt dataset, created by the MLCommons AI Risk & Reliability working group. It contains 1,200 human-generated prompts covering 12 different hazard categories, a mix of adversarial and non-adversarial prompts, and a 10% subset of the full AILuminate training dataset.
 
 # ⚠️ Content warning
 
@@ -82,5 +82,6 @@ MLCommons licenses this data under a [Creative Commons Attribution 4.0 Internati
 
 # Papers
 
-* Vidgen, Bertie, Adarsh Agrawal, Ahmed M. Ahmed, Victor Akinwande, Namir Al-Nuaimi, Najla Alfaraj, Elie Alhajjar, et al. “Introducing v0.5 of the AI Safety Benchmark from MLCommons.” arXiv, May 13, 2024\. [https://doi.org/10.48550/arXiv.2404.12241](https://doi.org/10.48550/arXiv.2404.12241).  
-* 1.0 paper (Release: January 2025\)
+* Vidgen, Bertie, Adarsh Agrawal, Ahmed M. Ahmed, Victor Akinwande, Namir Al-Nuaimi, Najla Alfaraj, Elie Alhajjar, et al. “Introducing v0.5 of the AI Safety Benchmark from MLCommons.” arXiv, May 13, 2024\. [https://doi.org/10.48550/arXiv.2404.12241](https://doi.org/10.48550/arXiv.2404.12241).
+  
+* Ghosh, S., Frase, H., Williams, A., Luger, S., Röttger, P., Barez, F., McGregor, S., Fricklas, K., Kumar, M., Feuillade–Montixi, Q., Bollacker, K., Friedrich, F., Tsang, R., Vidgen, B., Parrish, A., Knotz, C., Presani, E., Bennion, J., Ferrara Boston, M., Kuniavsky, M., ... Vanschoren, J. (2025). AILuminate: Introducing v1.0 of the AI Risk and Reliability Benchmark from MLCommons  [https://arxiv.org/abs/2503.05731](https://arxiv.org/abs/2503.05731)
