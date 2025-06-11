@@ -72,7 +72,7 @@ See [AILuminate 1.0 Assessment Standards](https://drive.google.com/file/d/1jVYoS
 
 # Access to full prompt set and AILuminate ensemble evaluator
 
-* If you would like access to **the full 12,000 prompt Practice Set** and to test a system using MLCommons state-of-the-art ensemble evaluator model and our 12,000 test set, [please complete this form](https://mlcommons.org/ailuminate/submit-a-sut/).  
+* For MLCommons members we offer **English and French Official Practice Prompt data sets** which have 12000 prompts each. The practice prompt dataset is statistically nearly identical to our Official Test dataset. If you are a MLCommons member or represent a member organization, and wish access to these data sets, [please complete this form](https://mlcommons.org/ailuminate/submit-a-sut/). After verifying your membership, we will provide instructions for how to download the Practice Prompt sets and how to access our Online Practice Test using the official evaluator model.
 * More information on [the AILuminate website](https://mlcommons.org/ailuminate/technical-users/).  
 * Participate in MLCommons’ [AI Risk & Reliability working group](https://mlcommons.org/working-groups/ai-risk-reliability/ai-risk-reliability/).
 
